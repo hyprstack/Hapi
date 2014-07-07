@@ -12,5 +12,7 @@ Here we will:
 4. Validating with Joi
 5. Caching
 
+>I have also added another simple API tutorial from [http://blog.modulus.io/nodejs-and-hapi-create-rest-api]
+
 
 So be _Hapi_!
